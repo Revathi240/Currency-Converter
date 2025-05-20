@@ -1,0 +1,73 @@
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Times+New+Roman&display=swap');
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            background-image: url('https://www.shutterstock.com/image-vector/concept-currency-exchange-money-transfer-600nw-2231961997.jpg');
+           
+           
+            color: rgb(0, 67, 122);
+            border-radius: 10px;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+          backdrop-filter: blur(30px);
+            padding: 20px;
+            border-radius: 10px;
+            display: inline-block;
+            width: 300px;
+        }
+        .container:hover {
+            
+            box-shadow: 0 0 20px rgb(207, 222, 245);
+        }
+        input, select, button {
+            margin: 10px;
+            padding: 10px;
+            font-size: 1em;
+            width: 90%;
+        }
+        button {
+            background-color: #0699f4;
+            color: rgb(253, 246, 246);
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #096d9c;
+        }
+
+        h1 {
+            font-size: 2em;
+            margin-bottom: 20px;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+         }
+
+        p {
+            font-size: 1.2em;
+            margin-top: 20px;
+            color: #f1dd4c;
+        }
+        select {
+            background-color: #f5f0f0;
+            color: #040404;
+            border-radius: 8px;
+            border: 1px solid #97c6f8;
+        }
+        
+        input {
+            background-color: #f5f0f0;
+            color: #040404;
+            border-radius: 8px;
+            border: 1px solid #97c6f8;
+        }
+        input:focus, select:focus {
+            outline: none;
+            border-color: #0699f4;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.998);
+        }
+        button:focus {
+            outline: none;
+            box-shadow: 0 0 10px rgba(167, 202, 239, 0.998);
+        }

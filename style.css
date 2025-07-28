@@ -2,8 +2,7 @@
         body {
             font-family: 'Times New Roman', Times, serif;
             background-image: url('https://www.shutterstock.com/image-vector/concept-currency-exchange-money-transfer-600nw-2231961997.jpg');
-           
-           
+            background-size: cover;
             color: rgb(0, 67, 122);
             border-radius: 10px;
             text-align: center;

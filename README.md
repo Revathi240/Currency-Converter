@@ -18,9 +18,8 @@ Technologies Used
 - JavaScript
 
 📸 Screenshot
+<img width="1920" height="901" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/3d03ddb9-5f30-4cbd-b50f-324ffd1e4cb8" />
 
-
-<img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/9ab49313-b2b6-4337-a4c9-543b93fe08ae" />
 
 
 Future Enhancements
